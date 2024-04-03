@@ -1,0 +1,2 @@
+[14-Apr-2013 15:02:36 America/New_York] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (42000/1044): Access denied for user 'utchilap_admon'@'localhost' to database 'utchilap_moodle' in /home/utchilap/public_html/campusvirtual/lib/dml/mysqli_native_moodle_database.php on line 376
+[14-Apr-2013 15:02:36 America/New_York] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home/utchilap/public_html/campusvirtual/lib/dml/mysqli_native_moodle_database.php on line 416
